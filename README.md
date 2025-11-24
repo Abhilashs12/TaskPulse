@@ -62,21 +62,6 @@ MySQL Database
 └── security (optional)
 
 
----
-/src
-└── main
-└── java
-└── com.taskpulse
-├── controller
-├── service
-├── repository
-├── entity
-├── dto
-└── security (optional)
-
-
----
-
 ## 🗄 Database Schema Summary
 
 ### Users Table
@@ -110,7 +95,7 @@ MySQL Database
 - JDK 17+
 - MySQL installed and running
 - Maven
-- IntelliJ / VS Code / Eclipse
+-  Eclipse
 
 ### ✅ Steps to Run
 1. Clone the repository
